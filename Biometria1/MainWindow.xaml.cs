@@ -64,6 +64,7 @@ namespace Biometria1
                     encoder.Save(stream);
                 }
             }
+
         }
 
         private void image_MouseWheel(object sender, MouseWheelEventArgs e)
